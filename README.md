@@ -20,3 +20,6 @@ The documentation was made as follows:
       - For storing the required files for the documentation.
 5. GitHub Pages
       - To publish the completed documentation.
+
+## Final Output
+You can view my final API documentation of the [Sunset and sunrise times API v2](https://sunrise-sunset.org/api) in [here](https://caseylee-tc.github.io/SampleSunsetSunriseAPI/)
