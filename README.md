@@ -5,8 +5,9 @@ This repository is to showcase my documentation of the [Sunset and sunrise times
 The documentation was made as follows:
 1. Study the documentation of the [Sunset and sunrise times API v2](https://sunrise-sunset.org/api)
 2. Document the API according to the [OpenAPI Specification v3.2.0](https://spec.openapis.org/oas/v3.2.0.html)
-3. Validating the completed specification.
-4. Building and publishing the completed specification for public viewing.
+3. Validating the completed specification through testing with Swagger Editor.
+4. Linting and building the html file with Redocly CLI of the specification.
+5. Uploading and publishing the html file for public viewing.
 
 ## Tools used:
 1. [Swagger Editor](https://editor.swagger.io/)
