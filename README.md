@@ -1,7 +1,7 @@
 # SampleSunsetSunriseAPI
 This is a sample repository for the Sunset and sunrise times API v2.
 
-This repository is to showcase my documentation of the [Sunset and sunrise times API v2](https://sunrise-sunset.org/api)
+This repository is to showcase my documentation of the [Sunset and sunrise times API v2](https://sunrise-sunset.org/api).
 The documentation was made as follows:
 1. Study the documentation of the [Sunset and sunrise times API v2](https://sunrise-sunset.org/api)
 2. Document the API according to the [OpenAPI Specification v3.2.0](https://spec.openapis.org/oas/v3.2.0.html)
